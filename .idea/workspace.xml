@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f778759b-ecb5-4e08-a828-55fa2cba1d28" name="Changes" comment="added tests" />
+    <list default="true" id="f778759b-ecb5-4e08-a828-55fa2cba1d28" name="Changes" comment="fixed zero perimeter test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,15 +13,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "whegnev"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;whegnev&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/smartiqaorg/geometric_lib",
+    "url": "https://github.com/whegnev/geometric_lib_with_tests",
     "accountId": "9e347928-737d-4c5c-9d18-b7c62ada3431"
   }
 }]]></component>
@@ -68,11 +68,20 @@
       <option name="project" value="LOCAL" />
       <updated>1763923916091</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed zero perimeter test">
+      <option name="closed" value="true" />
+      <created>1764253731495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764253731495</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="added tests" />
+    <MESSAGE value="fixed zero perimeter test" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed zero perimeter test" />
   </component>
 </project>
