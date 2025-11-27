@@ -116,14 +116,14 @@ class TriangleTestCase(unittest.TestCase):
 
         Параметры на вход:
         a = 0 (float) - нулевая сторона треугольника
-        b = 4 (float) - вторая сторона треугольника
-        c = 5 (float) - третья сторона треугольника
+        b = 0 (float) - вторая сторона треугольника
+        c = 0 (float) - третья сторона треугольника
 
         Ожидаемый результат:
-        perimeter = 9 (float) - периметр треугольника как сумма сторон
+        perimeter = 0 (float) - периметр треугольника как сумма сторон
         '''
-        res = triangle_perimeter(0, 4, 5)
-        self.assertEqual(res, 9)
+        res = triangle_perimeter(0, 0, 0)
+        self.assertEqual(res, 0)
 
 
 class SquareTestCase(unittest.TestCase):
