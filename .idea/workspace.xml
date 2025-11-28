@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f778759b-ecb5-4e08-a828-55fa2cba1d28" name="Changes" comment="fixed zero perimeter test" />
+    <list default="true" id="f778759b-ecb5-4e08-a828-55fa2cba1d28" name="Changes" comment="fixed docs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/geometric_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/geometric_tests.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +22,12 @@
     &quot;assignee&quot;: &quot;whegnev&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/whegnev/geometric_lib_with_tests",
-    "accountId": "9e347928-737d-4c5c-9d18-b7c62ada3431"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/whegnev/geometric_lib_with_tests&quot;,
+    &quot;accountId&quot;: &quot;9e347928-737d-4c5c-9d18-b7c62ada3431&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -76,12 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1764253731495</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed docs">
+      <option name="closed" value="true" />
+      <created>1764255086986</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764255086986</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added tests" />
     <MESSAGE value="fixed zero perimeter test" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed zero perimeter test" />
+    <MESSAGE value="fixed docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed docs" />
   </component>
 </project>
